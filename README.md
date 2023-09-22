@@ -27,12 +27,10 @@ To reproduce this analysis or explore the project further, follow these steps:
 ## Materials
 - Excel files and raw data
 - Screenshots of the dashboard
-- 'UK_Touris_Analysis_&_Dashboard' Excel file
+- 'Dashboard' Excel file
 - 'Demo' video demonstration
 - PDF report ('Excel Project Report') for detailed findings
 
-## Acknowledgments
-- Mention any individuals, courses, or resources that contributed to your project.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.

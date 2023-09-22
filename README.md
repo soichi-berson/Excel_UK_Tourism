@@ -1,4 +1,4 @@
-# EXCEL: Analyzing UK Tourism
+# EXCEL: Analyzing UK Tourism 
 
 ## Introduction
 This project involved the analysis of UK Tourism data from 2018 to 2022, with a focus on gaining practical experience with Excel, including PivotTables and creating dashboards. The original analysis was conducted using Tableau for the mid-bootcamp project ([GitHub Repository](https://github.com/soichi-berson/mid-bootcamp-project)), and this project replicates the analysis using Excel.
@@ -21,7 +21,7 @@ This project involved the analysis of UK Tourism data from 2018 to 2022, with a 
 ## Instructions
 To reproduce this analysis or explore the project further, follow these steps:
 1. Download the Excel files and raw data from the provided sources.
-2. Open the 'UK_Touris_Analysis_&_Dashboard' Excel file.
+2. Open the 'Dashboard' Excel file.
 3. Follow the instructions provided in the video demonstration ('demo').
 
 ## Materials
